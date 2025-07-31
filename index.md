@@ -4,4 +4,4 @@ I'm Jon Leibowitz. Find my github profile [here](https://github.com/jleibowitz-l
 
 ## Office Hours
 
-find a sign up link below. [topics will be diverse and enlightening.](https://github.com/jleibowitz-lacpw/marp-presentations)
+A sign up link will appear soon for unofficial DevRel presentations and discussion sessions. [Topics will be diverse and enlightening.](https://github.com/jleibowitz-lacpw/marp-presentations)

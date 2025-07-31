@@ -15,7 +15,7 @@ I've worked in data centers, supported animation pipelines (DreamWorks Animation
 
 ## Office Hours
 
-A sign up link will appear soon for unofficial [DevRel](https://raw.githubusercontent.com/jleibowitz-lacpw/marp-presentations/refs/heads/main/ideas/devrel.md) presentations and discussion sessions. [Topics will be diverse and enlightening.](https://github.com/jleibowitz-lacpw/marp-presentations), including:
+A sign up link will appear soon for unofficial [DevRel](https://raw.githubusercontent.com/jleibowitz-lacpw/marp-presentations/refs/heads/main/ideas/devrel.md) presentations and discussion sessions. [Topics will be diverse and enlightening](https://github.com/jleibowitz-lacpw/marp-presentations), including:
 - GitHub Pages + Markdown
 - Security culture
 - Whatever comes up

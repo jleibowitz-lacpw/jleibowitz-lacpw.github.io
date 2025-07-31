@@ -1,3 +1,8 @@
+---
+title: Jon's web home
+layout: default
+---
+
 # Welcome
 
 I'm Jon Leibowitz. Find my github profile [here](https://github.com/jleibowitz-lacpw)

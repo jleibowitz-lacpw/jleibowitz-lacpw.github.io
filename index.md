@@ -7,7 +7,7 @@ layout: default
 
 Hi. I'm Jon. Find my github profile [here](https://github.com/jleibowitz-lacpw)
 
-I'm a member of [Los Angeles County Public Works](https://pw.lacounty.gov), on the Web Administration team. I'm a mid-career systems person in the middle of reinvention. Currently I'm a Computer Information Systems student at [Pasadena City College](https://pasadena.edu), transferring to [Cal State LA](https://www.calstatela.edu) in Spring 2026.
+I'm a member of [Los Angeles County Public Works](https://pw.lacounty.gov), on the Web Administration team. I'm a mid-career systems person in the middle of reinvention. Currently I'm a Computer Information Systems student at [Pasadena City College](https://pasadena.edu), transferring to [Cal State LA](https://www.calstatela.edu) in 2026.
 
 ## What I've done
 

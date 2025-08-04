@@ -11,7 +11,7 @@ I'm a member of [Los Angeles County Public Works](https://pw.lacounty.gov), on t
 
 ## What I've done
 
-I've worked in data centers, supported animation pipelines ([DreamWorks Animation](https://www.dreamworks.com/), Glendale), cloud support ([DigitalOcean](https://www.digitalocean.com)), and a short stint with LA County ISD building CI/CD pipelines in Groovy for OpenShift.
+I've worked in data centers, supported animation pipelines ([DreamWorks Animation](https://www.dreamworks.com/), Glendale), cloud support ([DigitalOcean](https://www.digitalocean.com)), and a short stint with [LA County ISD](https://isd.lacounty.gov/) building [CI/CD pipelines in Groovy](https://www.jenkins.io/doc/book/pipeline/) for [OpenShift](https://en.wikipedia.org/wiki/OpenShift).
 
 ## Office Hours
 

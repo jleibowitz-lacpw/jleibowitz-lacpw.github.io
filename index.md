@@ -2,6 +2,7 @@
 title: Jon's web home
 layout: default
 ---
+<link rel="stylesheet" href="style.css">
 
 # Welcome
 

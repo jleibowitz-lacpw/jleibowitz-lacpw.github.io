@@ -1,5 +1,6 @@
 ---
 title: Jon's web home
+description: "test test test"
 layout: default
 ---
 <link rel="stylesheet" href="style.css">

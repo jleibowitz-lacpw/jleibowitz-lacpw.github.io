@@ -20,8 +20,8 @@ This is a demonstration of GitHub Pages as a product, a static hosting service, 
 
 ## Office Hours
 
-Book an [Office Hours time slot](https://cal.com/jleibowitz-lacpw) for unofficial [DevRel](https://jleibowitz-lacpw.github.io/marp-presentations/ideas/devrel) presentations and discussion sessions. [Topics will be diverse and enlightening](https://jleibowitz-lacpw.github.io/marp-presentations/), including:
-- [GitHub Pages + Markdown](https://jleibowitz-lacpw.github.io/marp-presentations/web/github-pages)
+Book an [Office Hours time slot](https://cal.com/jleibowitz-lacpw) for unofficial [DevRel](https://jleibowitz-lacpw.github.io/presentations/ideas/devrel) presentations and discussion sessions. [Topics will be diverse and enlightening](https://jleibowitz-lacpw.github.io/presentations/), including:
+- [GitHub Pages + Markdown](https://jleibowitz-lacpw.github.io/presentations/web/github-pages)
 - Security culture
 - Whatever comes up
 

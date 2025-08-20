@@ -5,7 +5,9 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Bossa Nova
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
 - Security tooling (Wiz, Snyk, Tenable)
-- Developer Experience, Developer advocacy. InnerSource. 
+- Developer Experience, Developer advocacy. InnerSource.
+- Static hosting and page generation (Jekyll, Publii) and presentation slide generation from plaintext (marp, slidev)
+- AI
 
 - Just wrapped up summer classes (Critical Thinking + Interpersonal Comm)
 - Prepping for fall: Business Communications, Statistics.

@@ -3,6 +3,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Stereolab
 - Jobim
 - Bossa Nova
+- Gabor Szabo
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
 - Security tooling (Wiz, Snyk, Tenable)
 - Developer Experience, Developer advocacy. InnerSource.

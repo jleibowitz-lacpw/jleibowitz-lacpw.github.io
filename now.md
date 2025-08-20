@@ -9,6 +9,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Security tooling (Wiz, Snyk, Tenable)
 - Developer Experience, Developer advocacy. InnerSource.
 - Static hosting and page generation (Jekyll, Publii) and presentation slide generation from plaintext (marp, slidev)
+- Obsidian or friendly team focused open source alternatives
 - AI
 
 - Just wrapped up summer classes (Critical Thinking + Interpersonal Comm)

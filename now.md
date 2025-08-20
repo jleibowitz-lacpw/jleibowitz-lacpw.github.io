@@ -1,6 +1,6 @@
 I'm Jon, and here's what I'm focused on *right now*:
 
-- The Velvet Underground
+- Stereolab
 - Jobim
 - Bossa Nova
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
@@ -9,3 +9,5 @@ I'm Jon, and here's what I'm focused on *right now*:
 
 - Just wrapped up summer classes (Critical Thinking + Interpersonal Comm)
 - Prepping for fall: Business Communications, Statistics.
+- Considering a project to quantify and dashboardize Pasadena City College student commute survey data (aligned with fall semester courseload)
+- figuring out CSULA transfer scenarios

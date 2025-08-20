@@ -4,6 +4,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Jobim
 - Bossa Nova
 - Gabor Szabo
+- iceberg memes in the lastfm subreddit
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
 - Security tooling (Wiz, Snyk, Tenable)
 - Developer Experience, Developer advocacy. InnerSource.

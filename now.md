@@ -6,7 +6,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Gabor Szabo
 - iceberg memes in the lastfm subreddit
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
-- Devcontainers and Codespaces
+- [Devcontainers](https://learn.microsoft.com/en-us/shows/beginners-series-to-dev-containers/) and Codespaces
 - Security tooling (Wiz, Snyk, Tenable)
 - [Bluefin Linux](https://github.com/ublue-os/bluefin)
 - Developer Experience, Developer advocacy. InnerSource.

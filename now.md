@@ -7,6 +7,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - iceberg memes in the lastfm subreddit
 - Soft launch of *office hours*, grassroots knowledge sharing sessions.
 - Security tooling (Wiz, Snyk, Tenable)
+- Bluefin Linux
 - Developer Experience, Developer advocacy. InnerSource.
 - Static hosting and page generation (Jekyll, Publii) and presentation slide generation from plaintext (marp, slidev)
 - Obsidian or friendly team focused open source alternatives

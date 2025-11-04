@@ -14,7 +14,6 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Obsidian or friendly team focused open source alternatives
 - AI
 
-- Just wrapped up summer classes (Critical Thinking + Interpersonal Comm)
-- Prepping for fall: Business Communications, Statistics.
+- Fall@PCC: Full Stack Web Dev, Business Communications, Statistics.
 - Considering a project to quantify and dashboardize Pasadena City College student commute survey data (aligned with fall semester courseload)
 - figuring out CSULA transfer scenarios

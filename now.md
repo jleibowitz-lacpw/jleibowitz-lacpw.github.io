@@ -9,6 +9,7 @@ I'm Jon, and here's what I'm focused on *right now*:
 - Security tooling (Wiz, Snyk, Tenable)
 - [Bluefin Linux](https://github.com/ublue-os/bluefin)
 - Developer Experience, Developer advocacy. InnerSource.
+- the cool kids at [Charm](https://github.com/charmbracelet) who make the command line glamorous
 - Static hosting and page generation (Jekyll, Publii) and presentation slide generation from plaintext (marp, slidev)
 - Obsidian or friendly team focused open source alternatives
 - AI

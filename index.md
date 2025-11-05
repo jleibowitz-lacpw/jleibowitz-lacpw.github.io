@@ -23,6 +23,3 @@ Book an [Office Hours time slot](https://cal.com/jleibowitz-lacpw) for unofficia
 - [GitHub Pages + Markdown](https://jleibowitz-lacpw.github.io/presentations/web/github-pages)
 - Security culture
 - Whatever comes up
-
-
-`The postings on this website are my own and do not represent the views or opinions of my employer.`

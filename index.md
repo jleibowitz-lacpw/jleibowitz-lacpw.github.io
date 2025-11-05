@@ -2,7 +2,6 @@
 title: Jon's web home
 layout: page
 ---
-<link rel="stylesheet" href="style.css">
 
 # Welcome
 
@@ -18,7 +17,7 @@ I've worked in data centers, supported animation pipelines ([DreamWorks Animatio
 
 This is a demonstration of GitHub Pages as a product, a static hosting service, as well as an exploration of [a digital garden](https://bphenriques.github.io/knowledge-base/notes/digital_garden/) or public area to showcase and explore ideas. 
 
-## Office Hours
+## Office Hours {#office-hours}
 
 Book an [Office Hours time slot](https://cal.com/jleibowitz-lacpw) for unofficial [DevRel](https://jleibowitz-lacpw.github.io/presentations/ideas/devrel) presentations and discussion sessions. [Topics will be diverse and enlightening](https://jleibowitz-lacpw.github.io/presentations/), including:
 - [GitHub Pages + Markdown](https://jleibowitz-lacpw.github.io/presentations/web/github-pages)

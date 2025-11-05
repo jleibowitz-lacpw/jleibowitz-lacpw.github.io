@@ -6,11 +6,11 @@
   <meta name="description" content="{{ page.description | default: site.description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
-  {% seo %}
 </head>
 <body>
+  {% seo %}
   {% include header.html %}
-  <main class="content" role="main">
+  <main id="main-content" class="content" role="main">
     {{ content }}
   </main>
   {% include footer.html %}

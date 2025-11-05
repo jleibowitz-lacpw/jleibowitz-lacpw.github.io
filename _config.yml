@@ -5,15 +5,15 @@ url: "https://jleibowitz-lacpw.github.io"
 github_username: jleibowitz-lacpw
 theme: jekyll-theme-cayman
 plugins:
-	- jekyll-seo-tag
+  - jekyll-seo-tag
 
 # Exclude build/deploy clutter if added later
 exclude:
-	- Gemfile
-	- Gemfile.lock
-	- node_modules
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
 
 # Future expansion placeholders
 social_links:
-	- name: GitHub
-		url: "https://github.com/jleibowitz-lacpw"
+  - name: GitHub
+    url: "https://github.com/jleibowitz-lacpw"

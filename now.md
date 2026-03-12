@@ -14,7 +14,7 @@ I'm Jon. Here's what I'm focused on right now.
 
 - Supply Chain Security Practices (SLSA)
 - Friction Logging
-- [Lencioni Model](https://addyosmani.com/blog/debugging-teams-lencioni/)
+- [Lencioni Model](https://addyosmani.com/blog/debugging-teams-lencioni/) and [alternatives](https://www.atlassian.com/blog/teamwork/what-strong-teamwork-looks-like)
 - Cloud Security Posture Remediation
 - Value Stream Mapping
 - Joint Cognitive Systems

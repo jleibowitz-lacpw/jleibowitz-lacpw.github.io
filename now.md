@@ -10,10 +10,11 @@ I'm Jon. Here's what I'm focused on right now.
 
 - Blues, bossa, ragtime, stride.
 
-### Projects & activities
+### Projects, culture, and activities
 
 - Supply Chain Security Practices (SLSA)
 - Friction Logging
+- [Lencioni Model](https://addyosmani.com/blog/debugging-teams-lencioni/)
 - Cloud Security Posture Remediation
 - Value Stream Mapping
 - Joint Cognitive Systems

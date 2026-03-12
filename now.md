@@ -1,42 +1,39 @@
 ---
 title: Now
 layout: page
-description: What I'm focused on right now — interests, projects, tools, and study plans.
+description: What I'm focused on right now.
 ---
 
-I'm Jon. Here's what I'm focused on right now — grouped and trimmed for quick scanning.
+I'm Jon. Here's what I'm focused on right now.
 
 ### Listening
 
-- Stereolab
-- Jobim
-- Bossa Nova
-- Gabor Szabo
-- Iceberg memes (Last.fm subreddit)
+- Blues, bossa, ragtime, stride.
 
 ### Projects & activities
 
-- Office Hours — soft launch of grassroots knowledge-sharing sessions (book a slot via my site).
-- Developer Experience, Developer Advocacy, and InnerSource initiatives.
-- Static hosting & presentations — experimenting with Jekyll, Publii, and plaintext slide tools (marp, slidev).
-- A planned mini-project to quantify and dashboard Pasadena City College student commute survey data (aligned with fall semester coursework).
+- Supply Chain Security Practices (SLSA)
+- Friction Logging
+- Cloud Security Posture Remediation
+- Value Stream Mapping
+- Joint Cognitive Systems
+- "Learn Go With Tests"
+- Platform Engineering
 
 ### Tools & tech I'm using / evaluating
 
 - Bluefin Linux ([ublue-os/bluefin](https://github.com/ublue-os/bluefin))
 - Devcontainers & Codespaces ([Microsoft beginner series on dev containers](https://learn.microsoft.com/en-us/shows/beginners-series-to-dev-containers/))
-- Security tooling: Wiz, Snyk, Tenable
-- Charm projects that improve CLI UX ([charmbracelet](https://github.com/charmbracelet))
+- CloudQuery
+- Agent Skills, GitHub Copilot 
+
 
 ### Workflow & note-taking
 
 - Exploring Obsidian and team-friendly, open-source alternatives for notes and knowledge-sharing.
+- Material for Mkdocs, docs-as-code, DocOps
 
 ### Studies (current)
 
-- Fall @ PCC: Full Stack Web Development, Business Communications, Statistics
-- Planning transfer / degree pathways (CSULA and related options)
-
-### Other
-
-- AI (researching practical uses and workflow integration)
+- Spring @ PCC: History, Intro to Piano, Baccalaureate gen eds
+- Fall @ Cal State LA: Computer Information Systems, B.S. Cybersecurity Option

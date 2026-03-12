@@ -33,6 +33,7 @@ I'm Jon. Here's what I'm focused on right now.
 
 - Exploring Obsidian and team-friendly, open-source alternatives for notes and knowledge-sharing.
 - Material for Mkdocs, docs-as-code, DocOps
+- [technical writing style guides](https://learn.microsoft.com/en-us/style-guide/)
 
 ### Studies (current)
 

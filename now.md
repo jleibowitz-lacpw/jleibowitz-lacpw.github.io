@@ -41,4 +41,5 @@ I'm Jon. Here's what I'm focused on right now.
 
 - Spring @ PCC: History, Intro to Piano, Baccalaureate gen eds
 - Summer @ PCC: [two full-stack web development classes](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/computer-information-systems-full-stack-web-development-as-cert-achievement/)
-- Fall @ Cal State LA: Computer Information Systems, B.S. Cybersecurity Option
+- Fall @ Cal State LA: [Computer Information Systems, B.S. Cybersecurity Option
+]([url](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309))

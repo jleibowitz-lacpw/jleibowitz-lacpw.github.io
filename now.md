@@ -13,6 +13,8 @@ I'm Jon. Here's what I'm focused on right now.
 
 ### Projects, culture, and activities
 
+- Automated Governance
+- Golden Paths
 - Supply Chain Security Practices (SLSA)
 - Friction Logging
 - [Lencioni Model](https://addyosmani.com/blog/debugging-teams-lencioni/) and [alternatives](https://www.atlassian.com/blog/teamwork/what-strong-teamwork-looks-like)
@@ -39,6 +41,6 @@ I'm Jon. Here's what I'm focused on right now.
 
 ### Studies (current)
 
-- Spring @ PCC: History, Intro to Piano, Baccalaureate gen eds
+- Spring @ PCC: [Graduation](https://grad.tassel.com/announcement/4ec8dc8ef)
 - Summer @ PCC: [two full-stack web development classes](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/computer-information-systems-full-stack-web-development-as-cert-achievement/)
 - Fall @ Cal State LA: [Computer Information Systems, B.S. Cybersecurity Option](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309)

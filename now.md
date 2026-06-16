@@ -43,5 +43,5 @@ I'm Jon. Here's what I'm focused on right now.
 ### Studies (current)
 
 - Spring @ PCC: [Graduation](https://grad.tassel.com/announcement/4ec8dc8ef)
-- Summer @ PCC: [two full-stack web development classes](https://curriculum.pasadena.edu/academic-programs/computer-information-systems/computer-information-systems-full-stack-web-development-as-cert-achievement/)
+- Summer @ PCC: classes continue
 - Fall @ Cal State LA: [Computer Information Systems, B.S. Cybersecurity Option](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309)

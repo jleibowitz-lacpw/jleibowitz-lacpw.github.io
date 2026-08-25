@@ -23,6 +23,7 @@ I'm Jon. Here's what I'm focused on right now.
 - Joint Cognitive Systems
 - "Learn Go With Tests"
 - Platform Engineering
+- [Industrial and organizational psychology](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology)
 
 ### Tools & tech I'm using / evaluating
 

@@ -43,6 +43,8 @@ I'm Jon. Here's what I'm focused on right now.
 
 ### Studies (current)
 
-- Spring @ PCC: [Graduation](https://grad.tassel.com/announcement/4ec8dc8ef)
-- Summer @ PCC: classes continue
 - Fall @ Cal State LA: [Computer Information Systems, B.S. Cybersecurity Option](https://ecatalog.calstatela.edu/preview_program.php?catoid=75&poid=34309)
+  - Database Design and Development
+  - Management Information Systems
+  - Hardware and Software Architecture
+  - Communications Systems

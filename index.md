@@ -19,7 +19,9 @@ This is a demonstration of GitHub Pages as a product, a static hosting service, 
 
 ## Office Hours {#office-hours}
 
-Book an [Office Hours time slot](https://cal.com/jleibowitz-lacpw) for unofficial [DevRel](https://jleibowitz-lacpw.github.io/presentations/ideas/devrel) presentations and discussion sessions. [Topics will be diverse and enlightening](https://jleibowitz-lacpw.github.io/presentations/), including:
+Once I figure out the M365 Bookings tool, book an Office Hours time slot for unofficial [DevRel](https://jleibowitz-lacpw.github.io/presentations/ideas/devrel) presentations and discussion sessions. [Potentially diverse and enlightening topics](https://jleibowitz-lacpw.github.io/presentations/) may include:
 - [GitHub Pages + Markdown](https://jleibowitz-lacpw.github.io/presentations/web/github-pages)
-- Security culture
+- the open source ecosystem
+- web services
+- why reliability and security directly intersect
 - Whatever comes up
